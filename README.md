@@ -1,3 +1,3 @@
 # curryleafsite
 
-Code for the site is stored here.
+Code for the site is stored right here.
